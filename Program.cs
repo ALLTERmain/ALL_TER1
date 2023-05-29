@@ -1,6 +1,10 @@
-﻿bool a = true;
-bool b = false;
-bool c = false;
-Console.WriteLine(!a && b);
-Console.WriteLine(a || !b);
-Console.WriteLine(a && b || c);
+﻿
+double x = Convert.ToDouble(Console.ReadLine());
+if (x > 0)
+{
+    Console.WriteLine($"y={Math.Sin(x)}");
+}
+else
+{
+    Console.WriteLine($"y={Math.Cos(x)}");
+}
