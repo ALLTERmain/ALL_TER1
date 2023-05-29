@@ -1,6 +1,6 @@
-﻿bool a = false;
-bool b = true;
+﻿bool a = true;
+bool b = false;
 bool c = false;
-Console.WriteLine(a || c);
-Console.WriteLine(a && b);
-Console.WriteLine(b && c);
+Console.WriteLine(!a && b);
+Console.WriteLine(a || !b);
+Console.WriteLine(a && b || c);
