@@ -1,0 +1,15 @@
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\bin\Debug\net7.0\ALL_TERc#.exe
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\bin\Debug\net7.0\ALL_TERc#.deps.json
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\bin\Debug\net7.0\ALL_TERc#.runtimeconfig.json
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\bin\Debug\net7.0\ALL_TERc#.dll
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\bin\Debug\net7.0\ALL_TERc#.pdb
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.csproj.AssemblyReference.cache
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.AssemblyInfoInputs.cache
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.AssemblyInfo.cs
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.csproj.CoreCompileInputs.cache
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.dll
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\refint\ALL_TERc#.dll
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.pdb
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ALL_TERc#.genruntimeconfig.cache
+C:\Users\Operator\source\repos\ALL_TERc#\ALL_TERc#\obj\Debug\net7.0\ref\ALL_TERc#.dll
