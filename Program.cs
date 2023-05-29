@@ -1,1 +1,1 @@
-﻿Console.WriteLine("5 10\n7 см");
+﻿Console.WriteLine("2 кг\n13 17");
