@@ -1,2 +1,6 @@
-﻿double a = 450;
-Console.WriteLine((a-32)/1.8);
+﻿bool a = true;
+bool b = false;
+bool c = false;
+Console.WriteLine(a || b);
+Console.WriteLine(a && b);
+Console.WriteLine(b || c);
