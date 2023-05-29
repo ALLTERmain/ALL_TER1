@@ -1,4 +1,3 @@
 ﻿double a = Convert.ToDouble(Console.ReadLine());
-double b = Convert.ToDouble(Console.ReadLine());
-double s = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine(s + (a - b)*0.5);
+Console.WriteLine($"Фаренгейт: {a*1.8+32}");
+Console.WriteLine($"Кельвин: {a+273.15}");
