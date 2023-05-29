@@ -1,1 +1,1 @@
-﻿Console.Write("1\n2\n3\n4");
+﻿Console.WriteLine("5 10\n7 см");
