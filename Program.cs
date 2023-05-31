@@ -1,10 +1,5 @@
-﻿
-double x = Convert.ToDouble(Console.ReadLine());
-if (x > 0)
+﻿for (int i = 0; i < 9; i++)
 {
-    Console.WriteLine($"y={Math.Sin(x)}");
+    Console.Write("20 ");
 }
-else
-{
-    Console.WriteLine($"y={Math.Cos(x)}");
-}
+Console.Write("20.");
