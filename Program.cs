@@ -1,5 +1,5 @@
-﻿for (int i = 0; i < 9; i++)
+﻿int a=Convert.ToInt32(Console.ReadLine());
+for (int i = 0; i < a; i++)
 {
-    Console.Write("20 ");
+    Console.Write($"45 ");
 }
-Console.Write("20.");
