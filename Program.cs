@@ -1,5 +1,6 @@
 ﻿int n = 0;
-for  (int i = 100; i < 501; i++)
+int a=Convert.ToInt32(Console.ReadLine());
+for  (int i = a; i < 501; i++)
 {
     n += i;
 }
